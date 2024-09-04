@@ -1,0 +1,33 @@
+### Extended Description for Moon-Zen V4 - Zombie Attack Script
+
+---
+
+**Moon-Zen V4** is the ultimate tool for enhancing your gameplay experience in the popular Roblox game **"Zombie Attack."** This script is packed with advanced features designed to give you a competitive edge while maintaining a sleek and customizable interface powered by the **Rayfield GUI library**.
+
+**Key Features:**
+
+- **Auto Aim & Headshot:** Automatically lock onto the nearest zombie’s head, ensuring precision aiming and effortless headshots. This feature is fully customizable and works flawlessly without causing lag or crashes.
+  
+- **Wallhack/ESP:** See zombies through walls with our robust ESP feature, giving you the tactical advantage you need to survive longer and score higher. Customize the ESP color to your preference, including a dynamic rainbow mode for a visually striking experience.
+
+- **Rainbow Customization:** Take customization to the next level with our rainbow-themed visual enhancements. Apply rainbow cycling colors to your ESP, Auto Aim indicators, and even the entire GUI interface, making your gameplay not only efficient but also visually vibrant.
+
+- **Error Handling & Compatibility:** Moon-Zen V4 is designed with robust error handling, using `pcall` and `xpcall` to ensure the script runs smoothly on any executor without errors. This makes it versatile and reliable for all users.
+
+- **User-Friendly Interface:** The intuitive and clean design of the Rayfield GUI allows you to easily navigate and configure your settings. Whether you’re a seasoned scripter or new to scripting, Moon-Zen V4 provides a seamless experience.
+
+**Why Choose Moon-Zen V4?**
+
+Moon-Zen V4 stands out for its blend of performance, customization, and reliability. It’s crafted with attention to detail, ensuring that every feature enhances your gameplay without compromising the game's natural challenge. Whether you’re playing solo or with friends, this script elevates your experience, making it more fun, competitive, and visually stunning.
+
+**Installation & Usage:**
+
+Simply load the script into your preferred executor and follow the easy-to-navigate interface to enable and customize features according to your playstyle. The script is optimized for compatibility, ensuring it runs smoothly across various executors and devices.
+
+**Disclaimer:**
+
+Moon-Zen V4 is intended for educational and entertainment purposes only. Please use this script responsibly and respect the community guidelines of the games you play.
+
+---
+
+Elevate your Zombie Attack experience with Moon-Zen V4, where precision meets customization, and every game becomes an opportunity to master your skills with style.
